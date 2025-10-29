@@ -29,17 +29,6 @@ Realizar um exercício prático em laboratório isolado para compreender ataques
 
 ---
 
-## 📊 Resultados resumidos
-| Serviço | Conta de teste | Tentativas | Resultado | Observação |
-|----------|----------------|-------------|------------|-------------|
-| FTP | testuser1 | 500 | Protegido | Lockout após 3 falhas |
-| Web | testuser2 | 1000 | Vulnerável | Sem limite de tentativas |
-| SMB | testuser3 | 300 | Protegido | Resposta lenta controlada |
-
-*Todos os dados foram coletados apenas em ambiente de laboratório.*
-
----
-
 ## 🛡️ Recomendações
 1. Implementar **bloqueio temporário** após falhas consecutivas.  
 2. Aplicar **rate limiting** por IP e por usuário.  
