@@ -14,7 +14,7 @@ Realizar um exercício prático em laboratório isolado para compreender ataques
 
 ## ⚙️ Ambiente de Teste
 - Sistema operacional: **Kali Linux**
-- Ferramenta de auditoria: **Medusa**
+- Ferramenta de auditoria: **Medusa**,**Hydra**, **Patator**, **Burpsuite**
 - Alvos: **VMs vulneráveis (FTP, Web e SMB)** em **rede isolada**
 - Todas as ações foram feitas **com autorização** e **sem impacto externo**
 
