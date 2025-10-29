@@ -22,10 +22,12 @@ Realizar um exercício prático em laboratório isolado para compreender ataques
 
 ## 🧩 Metodologia (resumida)
 1. **Planejamento:** definição das VMs e contas de teste.  
-2. **Reconhecimento:** identificação de serviços ativos.  
-3. **Execução controlada:** simulação de tentativas automáticas de autenticação.  
-4. **Coleta de evidências:** registros e prints das respostas dos serviços.  
-5. **Análise e mitigação:** avaliação dos resultados e sugestões de defesa.
+2. **Reconhecimento:** identificação de serviços ativos.
+<img width="1346" height="685" alt="image" src="https://github.com/user-attachments/assets/f77839b3-af4a-412d-9f55-b108d1bbcfd5" />
+
+4. **Execução controlada:** simulação de tentativas automáticas de autenticação.  
+5. **Coleta de evidências:** registros e prints das respostas dos serviços.  
+6. **Análise e mitigação:** avaliação dos resultados e sugestões de defesa.
 
 ---
 
